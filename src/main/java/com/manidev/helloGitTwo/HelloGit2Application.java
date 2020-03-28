@@ -9,6 +9,7 @@ public class HelloGit2Application {
 	public static void main(String[] args) {
 		SpringApplication.run(HelloGit2Application.class, args);
 		System.out.println("Hello world git 2!");
+		System.out.println("Oojee is awesome! This is simple coding...");
 	}
 
 }
